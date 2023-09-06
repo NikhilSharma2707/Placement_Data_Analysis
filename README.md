@@ -1,5 +1,6 @@
 # Placement_Data_Analysis
 Data Analysis
+
 We will acquire a comprehensive dataset comprising relevant features such as student demographics, academic performance, and placement outcomes.
 Conduct exploratory data analysis (EDA) to gain initial insights into the data's structure and characteristics.
 Identify missing values, anomalies, and  treat the potential outliers.
